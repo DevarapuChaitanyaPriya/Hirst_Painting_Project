@@ -17,3 +17,4 @@ The program generates a grid of colored circles, similar to the iconic Hirst pai
 python hirst_painting.py
 
 
+![hirst painting](https://github.com/DevarapuChaitanyaPriya/Hirst_Painting_Project/assets/131691679/1e01422e-39b3-4339-b544-86996e35678e)
